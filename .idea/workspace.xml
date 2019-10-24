@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d5526be2-0e72-4276-b498-6c94d5fd2407" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/pytest.ini" beforeDir="false" afterPath="$PROJECT_DIR$/pytest.ini" afterDir="false" />
-    </list>
+    <list default="true" id="d5526be2-0e72-4276-b498-6c94d5fd2407" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +25,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pytest.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+            <state relative-caret-position="23">
+              <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -143,19 +141,32 @@
       <option name="project" value="LOCAL" />
       <updated>1571899385783</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="'login">
+      <created>1571900158554</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571900158554</updated>
+    </task>
+    <task id="LOCAL-00004" summary="'login2'">
+      <created>1571900352654</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571900352654</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="125" y="122" width="703" height="788" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26917294" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13378176" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
-      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.30733946" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -172,7 +183,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;python test&quot;" />
     <MESSAGE value="'login-test-data'" />
-    <option name="LAST_COMMIT_MESSAGE" value="'login-test-data'" />
+    <MESSAGE value="'login" />
+    <MESSAGE value="'login'" />
+    <MESSAGE value="'login2'" />
+    <option name="LAST_COMMIT_MESSAGE" value="'login2'" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/.idea/day07-2.iml">
@@ -211,8 +225,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pytest.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="23" lean-forward="true" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        <state relative-caret-position="23">
+          <caret line="1" column="31" lean-forward="true" selection-start-line="1" selection-start-column="31" selection-end-line="1" selection-end-column="31" />
         </state>
       </provider>
     </entry>
